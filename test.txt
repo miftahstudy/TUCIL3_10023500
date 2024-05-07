@@ -1,0 +1,63 @@
+A*
+Word #1 (or Enter to quit): eye
+Word #2 (or Enter to quit): man
+man -> mar -> ear -> err -> ere -> eye
+Panjang node: 6
+Solusi ditemukan dalam 6 ms.
+
+GBFS
+Word #1 (or Enter to quit): eye
+Word #2 (or Enter to quit): man
+eye -> ewe -> owe -> owl -> oil -> mil -> mid -> mad -> man
+Panjang node: 9
+Solusi ditemukan dalam 7 ms.
+
+UCS
+Word #1 (or Enter to quit): eye
+Word #2 (or Enter to quit): man
+eye -> rye -> rue -> run -> ran -> man
+Panjang node: 6
+Solusi ditemukan dalam 14 ms
+
+A*
+Word #1 (or Enter to quit): love
+Word #2 (or Enter to quit): what
+what -> chat -> coat -> cost -> lost -> lose -> love
+Panjang node: 7
+Solusi ditemukan dalam 20 ms.
+
+GBFS
+Word #1 (or Enter to quit): love
+Word #2 (or Enter to quit): WHAT
+love -> wove -> wive -> wise -> wist -> west -> weft -> waft -> wait -> whit -> what
+Panjang node: 11
+Solusi ditemukan dalam 6 ms.
+
+UCS
+Word #1 (or Enter to quit): love
+Word #2 (or Enter to quit): what
+love -> lose -> lost -> cost -> coat -> chat -> what
+Panjang node: 7
+Solusi ditemukan dalam 30 ms
+
+A*
+Word #1 (or Enter to quit): cloud
+Word #2 (or Enter to quit): hello
+hello -> cello -> cells -> wells -> welds -> weeds -> seeds -> sleds -> slews -> clews -> clefs -> cleft -> cleat -> bleat -> bloat -> float -> flout -> clout -> cloud
+Panjang node: 19
+Solusi ditemukan dalam 36 ms.
+
+GBFS
+Word #1 (or Enter to quit): cloud
+Word #2 (or Enter to quit): HeLlO
+cloud -> clout -> flout -> float -> bloat -> bleat -> bleak -> break -> bread -> breed -> bleed -> bleep -> sleep -> sleet -> slept -> swept -> sweat -> swear -> spear -> speak -> speck -> specs -> spews -> stews -> steps -> seeps -> keeps -> keels -> feels -> fells -> cells -> cello -> hello
+Panjang node: 33
+Solusi ditemukan dalam 9 ms.
+
+UCS
+Word #1 (or Enter to quit): cloud
+Word #2 (or Enter to quit): hello
+cloud -> clout -> flout -> float -> bloat -> bleat -> blest -> blast -> beast -> least -> leapt -> leaps -> leans -> deans -> deals -> dells -> jells -> jello -> hello
+Panjang node: 19
+Solusi ditemukan dalam 62 ms
+
